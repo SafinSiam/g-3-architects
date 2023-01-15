@@ -1,7 +1,11 @@
 /* ---------------header------------ */
+body{
+    width: 100%;
+}
 header{
     width: 1920px;
-    width: 100%;
+    
+    
 height: 1322px;
 left: 0px;
 top: 0px;
@@ -45,7 +49,7 @@ color: #727272;
 text-align: center;
 margin-left: 526px;
 position: relative;
-top: -70px;
+top: -40px;
 }
 .btn{
     
